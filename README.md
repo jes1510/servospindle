@@ -9,3 +9,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/
 
 Converts a manual router speed controller to CNC control by connecting the potentiometer of the controller to a servo.  The servo is controlled by an Arduino board connected to the parallel port.  The Arduino decodes the PWM from the computer into a servo position.
+
+The speed controller used for testing was purchased from Harbor Freight here:
+http://www.harborfreight.com/router-speed-control-43060.html
+
+You can assume that I have no idea what I am doing and therefor am not responsible for any damage or negative consequences for using anything from this project.  It may
+destroy all of your equipment and burn down your house.
