@@ -13,5 +13,8 @@ Converts a manual router speed controller to CNC control by connecting the poten
 The speed controller used for testing was purchased from Harbor Freight here:
 http://www.harborfreight.com/router-speed-control-43060.html
 
+Video explaining the project:
+http://www.youtube.com/watch?v=MW2ExFR2T5I&list=UUB3HdSWKGSfNb5ctzReIphg&index=1
+
 You can assume that I have no idea what I am doing and therefor am not responsible for any damage or negative consequences for using anything from this project.  It may
 destroy all of your equipment and burn down your house.
